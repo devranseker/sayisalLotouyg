@@ -1,0 +1,16 @@
+C:\Users\devra\Desktop\C# Projelerim\sayisalLoto_uyg\sayisalLoto_uyg\bin\Debug\net6.0-windows\sayisalLoto_uyg..exe
+C:\Users\devra\Desktop\C# Projelerim\sayisalLoto_uyg\sayisalLoto_uyg\bin\Debug\net6.0-windows\sayisalLoto_uyg..deps.json
+C:\Users\devra\Desktop\C# Projelerim\sayisalLoto_uyg\sayisalLoto_uyg\bin\Debug\net6.0-windows\sayisalLoto_uyg..runtimeconfig.json
+C:\Users\devra\Desktop\C# Projelerim\sayisalLoto_uyg\sayisalLoto_uyg\bin\Debug\net6.0-windows\sayisalLoto_uyg..dll
+C:\Users\devra\Desktop\C# Projelerim\sayisalLoto_uyg\sayisalLoto_uyg\bin\Debug\net6.0-windows\sayisalLoto_uyg..pdb
+C:\Users\devra\Desktop\C# Projelerim\sayisalLoto_uyg\sayisalLoto_uyg\obj\Debug\net6.0-windows\sayisalLoto_uyg_.Form1.resources
+C:\Users\devra\Desktop\C# Projelerim\sayisalLoto_uyg\sayisalLoto_uyg\obj\Debug\net6.0-windows\sayisalLoto_uyg..csproj.GenerateResource.cache
+C:\Users\devra\Desktop\C# Projelerim\sayisalLoto_uyg\sayisalLoto_uyg\obj\Debug\net6.0-windows\sayisalLoto_uyg..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devra\Desktop\C# Projelerim\sayisalLoto_uyg\sayisalLoto_uyg\obj\Debug\net6.0-windows\sayisalLoto_uyg..AssemblyInfoInputs.cache
+C:\Users\devra\Desktop\C# Projelerim\sayisalLoto_uyg\sayisalLoto_uyg\obj\Debug\net6.0-windows\sayisalLoto_uyg..AssemblyInfo.cs
+C:\Users\devra\Desktop\C# Projelerim\sayisalLoto_uyg\sayisalLoto_uyg\obj\Debug\net6.0-windows\sayisalLoto_uyg..csproj.CoreCompileInputs.cache
+C:\Users\devra\Desktop\C# Projelerim\sayisalLoto_uyg\sayisalLoto_uyg\obj\Debug\net6.0-windows\sayisalLoto_uyg..dll
+C:\Users\devra\Desktop\C# Projelerim\sayisalLoto_uyg\sayisalLoto_uyg\obj\Debug\net6.0-windows\refint\sayisalLoto_uyg..dll
+C:\Users\devra\Desktop\C# Projelerim\sayisalLoto_uyg\sayisalLoto_uyg\obj\Debug\net6.0-windows\sayisalLoto_uyg..pdb
+C:\Users\devra\Desktop\C# Projelerim\sayisalLoto_uyg\sayisalLoto_uyg\obj\Debug\net6.0-windows\sayisalLoto_uyg..genruntimeconfig.cache
+C:\Users\devra\Desktop\C# Projelerim\sayisalLoto_uyg\sayisalLoto_uyg\obj\Debug\net6.0-windows\ref\sayisalLoto_uyg..dll
